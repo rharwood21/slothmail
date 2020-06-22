@@ -1,0 +1,2 @@
+# slothmail
+flask web app
